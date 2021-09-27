@@ -8,7 +8,11 @@
 
 ## Code Review 
 ### The Bug
-#### The bug happened to be the navigation bar. The navigation bar and the header border were overlapping, the nav bar being under it. I tried to fix it by putting a margin on it, but that was a failed attempt even after trying the negative integers. Then I remembered that the margin doesn't have to be only 1 number, you can adjust all sides individually. I then began playing around with the different sizes and it finally worked to my liking. I definitely think that after this trial and error run, will have helped me memorize the fact that you can play around with the different lengths you can make the margin. I believe that it will be stuck in my brain that there is not only one way to do the margin. It is extremely useful in many ways. 
+#### The bug happened to be the navigation bar. The navigation bar and the header border were overlapping, the nav bar being under it. I tried to fix it by putting a margin on it, but that was a failed attempt even after trying the negative integers. 
+### The How
+####Then I remembered that the margin doesn't have to be only 1 number, you can adjust all sides individually. I then began playing around with the different sizes and it finally worked to my liking. 
+### The Benefit
+#### I definitely think that after this trial and error run, will have helped me memorize the fact that you can play around with the different lengths you can set for the margin. I believe that it will be stuck in my brain that there is not only one way to do the margin. It is extremely useful in many ways. 
 
 ## Attributions
 - icons from https://icons8.com/icons/
