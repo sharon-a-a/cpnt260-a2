@@ -3,8 +3,8 @@
 ## By: Sharon Agronov
 
 ### Links
-GitHub Repo: https://github.com/sharon-a-a/cpnt260-a2
-GitHub Pages: 
+- GitHub Repo: https://github.com/sharon-a-a/cpnt260-a2
+- GitHub Pages: https://sharon-a-a.github.io/cpnt260-a2/
 
 <<<<<<< HEAD
 ## Attributions
