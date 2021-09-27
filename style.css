@@ -1,11 +1,26 @@
 body {
   background: linear-gradient(#a98ec0, #6b898b);
 }
+nav {
+  display: flex;
+  background-color: darkslategrey;
+  justify-content: center;
+  text-decoration: none;
+  margin: -15px -25px 3px -25px;
+}
+nav ul li {
+  display: inline;
+  justify-content: center;
+  text-decoration: none;
+  margin: 10px;
+}
 header {
   text-align: center;
   border-color: silver;
   border-width: 5px;
   border-style: solid;
+  margin: auto;
+  padding: 10px;
 }
 main section {
   display: flex;
@@ -24,16 +39,16 @@ article {
   margin: 20px;
   min-width: 20ch;
 }
-p {
+article p {
   text-align: center;
   min-width: 20ch;
 }
-a {
+article a {
   display: flex;
   text-decoration: none;
   color: #77769c;
   background-color: silver;
-  border-radius: 5px;
+  border-radius: 3px;
 }
 div {
   font-size: clamp(2rem, 10vw, 4rem);
