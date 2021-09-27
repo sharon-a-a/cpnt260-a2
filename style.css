@@ -1,5 +1,8 @@
-body {
-    background-color: #8786b3;
+main {
+    background-color: linear-gradient(#8786b3, #6b898b);
+}
+/* body {
+    background-color: linear-gradient(#8786b3, #6b898b);
   }
 header {
     text-align: center;
@@ -13,7 +16,7 @@ main section {
   }
   
 article {
-    background-color: 	#6b898b;
+    background-color: 	;
     max-width: 20rem;
     display: flex;
     flex-direction: column;
@@ -25,5 +28,8 @@ article p {
     text-align: center;
   }
 img {
+    max-width: 500px;
+    min-width: 200px;
     font-size: clamp(2rem, 10vw, 4rem);
   }
+*/
